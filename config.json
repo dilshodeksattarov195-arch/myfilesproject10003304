@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdncrypt",
+        "uuid": 13338248,
+        "checksum": "pmlpip"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
